@@ -13,7 +13,7 @@ A multi-tier Java desktop application engineered for secure, concurrent scheduli
 - **Prepared Statements:** Complete mitigation of SQL Injection vectors across all CRUD operations via parameterized JDBC queries.
 
 ## 💻 Tech Stack
-- **Language:** Java (JDK 17+)
+- **Language:** Java 
 - **GUI Framework:** JavaFX
 - **Database:** PostgreSQL
 - **Database Connectivity:** JDBC
